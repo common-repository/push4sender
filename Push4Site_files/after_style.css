@@ -1,0 +1,55 @@
+#pfs_intropage{
+	background-color: #fefefe;
+	display: block;
+	/*border: solid 1px red;*/
+	height: 90%;
+	padding-top: 10px;
+	margin-right: 20px;
+	margin-top: 10px;
+	padding-bottom: 200px;
+	box-shadow: 2px 2px #ddd;
+}
+#pfs_registration{
+	background-color: #fefefe;
+	margin-right: 20px;
+	height: 54px;
+	font-size: 24px;
+	padding-top: 22px;
+	padding-left: 20px;
+	box-shadow: 2px 2px #ddd;
+}
+.pfs_registration {
+	display: block;
+	font-size: 18px;
+	width: 480px;
+	height: 40px;
+	margin: 200px auto;
+	/*border: 1px solid red;*/
+
+}
+
+.pfs_registration input{
+	margin-top: 20px;
+	margin-bottom: 15px;
+	width: 300px;
+	height: 40px;
+	border-radius: 3px;
+}
+
+.pfs_registration button{
+	margin-top: 15px;
+	width: 150px;
+	height: 40px;
+	border: none;
+	border-radius: 3px;
+
+}
+.pfs_registration button a {
+	text-decoration: none;
+	color: #23282d;
+	}
+
+#EnterBtn{
+	margin-bottom: 10px;
+}
+
